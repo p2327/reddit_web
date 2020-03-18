@@ -1,0 +1,10 @@
+.gcloudignore
+__pycache__
+.vscode
+*.pyc
+/dist/
+/*.egg-info
+/build/
+.eggs
+lib
+.DS_store
